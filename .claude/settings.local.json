@@ -1,0 +1,10 @@
+{
+  "enabledMcpjsonServers": [
+    "context7",
+    "sequential-thinking",
+    "github",
+    "fetch",
+    "playwright"
+  ],
+  "enableAllProjectMcpServers": true
+}
